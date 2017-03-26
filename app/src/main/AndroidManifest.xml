@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.safsaf.noon5">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".FiveActivity"
+            android:label="@string/category_five"/>
+        <activity android:name=".FourActivity"
+            android:label="@string/category_four"/>
+        <activity android:name=".IlliteracyActivity"
+            android:label="@string/category_illiteracy"/>
+        <activity android:name=".KidsActivity"
+            android:label="@string/category_kids"/>
+        <activity android:name=".OneActivity"
+            android:label="@string/category_one"/>
+        <activity android:name=".PreActivity"
+            android:label="@string/category_pre"/>
+        <activity android:name=".PreOneActivity"
+            android:label="@string/category_preOne"/>
+        <activity android:name=".PreTwoActivity"
+            android:label="@string/category_preTwo"/>
+        <activity android:name=".PreThreeActivity"
+            android:label="@string/category_preThree"/>
+        <activity android:name=".PrimaryActivity"
+            android:label="@string/category_primary"/>
+        <activity android:name=".SixActivity"
+            android:label="@string/category_six"/>
+        <activity android:name=".StoryActivity"
+            android:label="@string/category_story"/>
+        <activity android:name=".SupportActivity"
+            android:label="@string/category_support"/>
+        <activity android:name=".ThreeActivity"
+            android:label="@string/category_three"/>
+        <activity android:name=".TwoActivity"
+            android:label="@string/category_two"/>
+        <activity android:name=".WeActivity"
+            android:label="@string/category_we"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">نون</string>
+    <string name="story_text">نون هو الحلم اللي كتير مننا كان بيحلمه لما بننزل حملة لمحو الأمية .. و السؤال اللي كان كل واحد فينا بيسأله لنفسه و هو بيدرس لكبار السن ،،، و بعدين ؟! طيب ما الأميين دول بعد ما هيتعلموا هيطلع مكانهم أميين و هكذا إلى ما لا نهاية لإن المصدر نفسه شغال و بيطلع كل يوم مجموعة جديدة من الأميين .. مشاكل كتير زى التسرب من التعليم زى الأطفال العاملين زى أطفال الشوارع زى الطلاب اللي على وشك التسرب لأسباب إجتماعية زى الفقر .. في نون لقينا حل لكل ده بعد ما بدأنا في شهر 9 سنة 2014 مع طفل واحد تسرب من المدرسة واتجه إلى العمل .. وقررنا اننا نرجعله أبسط حقوقه .. إنه يتعلم .. مش بس يتعلم لكن يتعلم صح.. الطفل وصل 90 طفل و المتطوعين المؤمنين بالفكرة و عندهم حلم التغيير بدأوا يتوافدوا عشان يشاركوا في الحلم إنك تشوف طفل بيتغير في كافة جوانب حياته .. بيتغير أخلاقيا و سلوكيا .. بيتعلم يفرح و يضحك .. ويمارس حقه اللي ربنا كتبهوله في الطفولة لكن المجتمع سلبه منه .. مش حاجة بسيطة .. احنا بدأنا .. ومكملين .. و الفكرة مش ممكن تموت .. عندنا هدف قصير المدى وهو ان المشروع يوصل لكل شارع في مصر و يكون عندنا مدرسة نون .. و عندنا حلم طويل المدى شوية وهو تغيير الواقع كله للأحسن بدون حروب او خلافات بدون صراعات و بدون جهل و أمية .. هدفنا سلام .. و لما نتكلم عن السلام فالبداية دائما طفل نون</string>
+
+    <string name="category_kids">أطفالنا</string>
+    <string name="category_story"> حكايتنا </string>
+    <string name="category_we"> من نحن </string>
+    <string name="category_support"> دعمنا</string>
+    <string name="category_primary"> المرحلة الأبتدائية</string>
+    <string name="category_pre">المرحلة الأعدادية</string>
+    <string name="category_illiteracy"> محو الأمية </string>
+    <string name="category_one">الصف الأول الأبتدائى</string>
+    <string name="category_two">الصف الثانى الأبتدائى</string>
+    <string name="category_three">الصف الثالث الأبتدائى</string>
+    <string name="category_four">الصف الرابع الأبتدائى</string>
+    <string name="category_five">الصف الخامس الأبتدائى</string>
+    <string name="category_six">الصف السادس الأبتدائى</string>
+    <string name="category_preOne">الصف الأول الأعدادى</string>
+    <string name="category_preTwo">الصف الثانى الأعدادى</string>
+    <string name="category_preThree">الصف الثالث الأعدادى</string>
+    <string name="KidsTextView">عن أبى هيريرة رضى الله عنه :</string>
+    <string name="KidsTextView2">أن الرسول صلى الله عليه و سلم ,قال:</string>
+    <string name="KidsTextView3">اذا مات الأنسان انقطع عمله الا من ثلاث:</string>
+    <string name="KidsTextView4">صدقة جارية,او علم ينتفع به,</string>
+    <string name="KidsTextView5">أو ولد صالح يدعو له.</string>
+    <string name="KidsTextView6">المرحلة</string>
+    <string name="PreTextView1">""اذا أردت أن تخطط لعام فازرع - رز-""</string>
+    <string name="PreTextView2">اذا أردت أن تخطط لقرن فازرع -شجرة -</string>
+    <string name="PreTextView3">اذا أردت أن تخطط لحياة كاملة فازرع-طفلا-</string>
+    <string name="PreTextView">الصفوف</string>
+    <string name="PrimaryTextView">الصفوف</string>
+    <string name="PrimaryButton1">1</string>
+    <string name="PrimaryButton2">2</string>
+    <string name="PrimaryButton3">3</string>
+    <string name="PrimaryButton4">4</string>
+    <string name="PrimaryButton5">5</string>
+    <string name="PrimaryButton6">6</string>
+
+
+</resources>
